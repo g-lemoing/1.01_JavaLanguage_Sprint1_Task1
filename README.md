@@ -1,3 +1,5 @@
+<b>Descripció</b>
+
 Se entregan los niveles 1 y 2 de la tarea.
 Nivel 1 - Ejercicio 1:
   Se crea una clase abtracta Instrument con 3 subclases según su tipo (viento, cuerda, percusión).
@@ -19,3 +21,12 @@ Nivel 2 - Ejercicio 1:
   La subclase Smartphone hereda de la clase Phone e implementa dos métodos (fotografiar() y alarma()) definidos en sendos interfaces Camera y Rellotge.
   Comprobamos en el Main que creamos un objeto Smartphone, e invoquem correctamente los 3 métodos: trucar(), fotografiar() y alarma().
   
+Tecnologies Utilitzades i requisits : IDE IntelliJ Idea v 2024.2.1, Java, SDK openjdk-22 Oracle OpenJDK 22.0.2
+
+Instal·lació: 
+1. Clonar el repositorio de Github
+git clone https://github.com/g-lemoing/1.01_JavaLanguage_Sprint1_Task1.git
+2. Abrir el IDE e importar el proyecto desde el repositorio local desde File > Open.
+
+Ejecución:
+Localizar y abrir las classes Main de cada ejercicio, y ejecutarlas con el Run.
