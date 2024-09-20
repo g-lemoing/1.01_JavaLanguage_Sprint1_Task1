@@ -1,6 +1,6 @@
 <b>Descripció</b>
 
-https://github.com/g-lemoing/1.01_JavaLanguage_Sprint1_Task1/tree/masterSe entregan los niveles 1 y 2 de la tarea.
+Se entregan los niveles 1 y 2 de la tarea.
 Nivel 1 - Ejercicio 1:
   Se crea una clase abtracta Instrument con 3 subclases según su tipo (viento, cuerda, percusión).
   En cada una, un bloque estático permite mostrar por la consola cuando se carga la clase, e inicializar el atributo estático del tipo de instrumento.
