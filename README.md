@@ -1,6 +1,6 @@
 <b>Descripció</b>
 
-Se entregan los niveles 1 y 2 de la tarea.
+https://github.com/g-lemoing/1.01_JavaLanguage_Sprint1_Task1/tree/masterSe entregan los niveles 1 y 2 de la tarea.
 Nivel 1 - Ejercicio 1:
   Se crea una clase abtracta Instrument con 3 subclases según su tipo (viento, cuerda, percusión).
   En cada una, un bloque estático permite mostrar por la consola cuando se carga la clase, e inicializar el atributo estático del tipo de instrumento.
@@ -21,7 +21,8 @@ Nivel 2 - Ejercicio 1:
   La subclase Smartphone hereda de la clase Phone e implementa dos métodos (fotografiar() y alarma()) definidos en sendos interfaces Camera y Rellotge.
   Comprobamos en el Main que creamos un objeto Smartphone, e invoquem correctamente los 3 métodos: trucar(), fotografiar() y alarma().
   
-Tecnologies Utilitzades i requisits : IDE IntelliJ Idea v 2024.2.1, Java, SDK openjdk-22 Oracle OpenJDK 22.0.2
+Tecnologies Utilitzades : IDE IntelliJ Idea v 2024.2.1, Java, SDK openjdk-22 Oracle OpenJDK 22.0.2
+Requisits: SDK openjdk-22 Oracle OpenJDK 22.0.2
 
 Instal·lació: 
 1. Clonar el repositorio de Github
@@ -30,3 +31,14 @@ git clone https://github.com/g-lemoing/1.01_JavaLanguage_Sprint1_Task1.git
 
 Ejecución:
 Localizar y abrir las classes Main de cada ejercicio, y ejecutarlas con el Run.
+
+Contribuciones:
+1. Crear un fork del repositorio: 
+2. Clonar el repositorio hacia el directorio local marcado por git bash
+ git clone https://github.com/YOUR-USERNAME/1.01_JavaLanguage_Sprint1_Task1
+3. Crear una rama
+git branch BRANCH-NAME
+git checkout BRANCH-NAME
+4. Realizar cambios o comentarios, y hacer un commit: git commit -m 'mensaje cambios'
+5. Subir cambios a tu nueva rama: git push origin BRANCH-NAME
+6. Hacer un pull request
